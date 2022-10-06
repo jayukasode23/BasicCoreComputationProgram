@@ -1,0 +1,11 @@
+﻿using BasicCorePrograms;
+FlipTheCoin.calculatePercentage();
+LeapYear.CheckLeapYear();
+PowerOfTwo.CheckPowerOfTwo();
+HarmonicNumber.CheckHarmonicNumber();
+Factors.CheckPrimeFactors();
+QuotientAndRemainder.CheckQuotientAndRemainder();
+SwapTwoNumbers.SwapNumbers();
+EvenOrOdd.CheckEvenOdd();
+VowelOrConsonant.Vowel();
+LargestThreeNumbers.CheckNumbers();
